@@ -10,8 +10,9 @@ Cloud Foundry PaaS.
 All the cookbooks work best with Chef client connected to a Chef server; they
 also work with chef-solo but may require more configuration.
 
-The cookbooks have been tested with Chef 10.14.4; they should also work with
-more recent versions in the 10.x series.
+The cookbooks have been tested with Chef 10.16.6; they should also work with
+more recent versions in the 10.x series. Chef 10.14.x is not supported because
+it contains a few bugs.
 
 ### Cookbooks
 
